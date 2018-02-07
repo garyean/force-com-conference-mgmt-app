@@ -12,10 +12,7 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
-    <types>
-        <members>*</members>
-        <name>ConnectedApp</name>
-    </types>
+ 
    
     <types>
         <members>*</members>
